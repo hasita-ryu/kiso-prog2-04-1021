@@ -12,6 +12,6 @@
 int main(void)
 {
     printf("%d\n", (int)3.9);
-    printf("%d\n", (int)-3.9);
+    printf("%f\n", (float)-4.99999);
     return 0;
 }
